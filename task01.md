@@ -66,4 +66,6 @@ git log --oneline --g
 raph
 ``````
 
+# Сминар 3
+
 
